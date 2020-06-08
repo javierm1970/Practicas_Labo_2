@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\bin\Debug\Ejercicio_47.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\bin\Debug\Ejercicio_47.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Torneos_Ejercicio_47\Ejercicio_47\obj\Debug\Ejercicio_47.pdb

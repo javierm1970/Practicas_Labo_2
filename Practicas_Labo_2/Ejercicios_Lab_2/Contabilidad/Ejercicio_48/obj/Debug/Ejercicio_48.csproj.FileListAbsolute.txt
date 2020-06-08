@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\bin\Debug\Ejercicio_48.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\bin\Debug\Ejercicio_48.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\obj\Debug\Ejercicio_48.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\obj\Debug\Ejercicio_48.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\obj\Debug\Ejercicio_48.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Contabilidad\Ejercicio_48\obj\Debug\Ejercicio_48.pdb

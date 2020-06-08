@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\bin\Debug\Ejercicio_23_Biblioteca.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\bin\Debug\Ejercicio_23_Biblioteca.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\obj\Debug\Moneda.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\obj\Debug\Ejercicio_23_Biblioteca.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_23_Biblioteca\Ejercicio_23_Biblioteca\obj\Debug\Ejercicio_23_Biblioteca.pdb

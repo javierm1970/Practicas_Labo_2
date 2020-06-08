@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\obj\Debug\Test_Unitarios_Ejercicio_46.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\obj\Debug\Test_Unitarios_Ejercicio_46.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\bin\Debug\Test_Unitarios_Ejercicio_46.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\bin\Debug\Test_Unitarios_Ejercicio_46.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\obj\Debug\Test_Unitarios_Ejercicio_46.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Test_Unitarios_Ejercicio_46\Test_Unitarios_Ejercicio_46\obj\Debug\Test_Unitarios_Ejercicio_46.pdb

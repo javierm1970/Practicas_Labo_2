@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_Clase_Dolar_Euro_Peso", "Prueba_Clase_Dolar_Euro_Peso\Prueba_Clase_Dolar_Euro_Peso.csproj", "{D42C7FC5-9D36-4EC6-8A25-4FBD1D9D12E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca_Prueba_Dolar_Euro_Peso", "Biblioteca_Prueba_Dolar_Euro_Peso\Biblioteca_Prueba_Dolar_Euro_Peso.csproj", "{4BA00EE6-FAE7-4E42-9427-FF5D17AA8A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42C7FC5-9D36-4EC6-8A25-4FBD1D9D12E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42C7FC5-9D36-4EC6-8A25-4FBD1D9D12E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42C7FC5-9D36-4EC6-8A25-4FBD1D9D12E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42C7FC5-9D36-4EC6-8A25-4FBD1D9D12E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA00EE6-FAE7-4E42-9427-FF5D17AA8A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA00EE6-FAE7-4E42-9427-FF5D17AA8A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA00EE6-FAE7-4E42-9427-FF5D17AA8A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA00EE6-FAE7-4E42-9427-FF5D17AA8A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACFA5A2-4851-41E4-B064-4DD26FAEF034}
+	EndGlobalSection
+EndGlobal

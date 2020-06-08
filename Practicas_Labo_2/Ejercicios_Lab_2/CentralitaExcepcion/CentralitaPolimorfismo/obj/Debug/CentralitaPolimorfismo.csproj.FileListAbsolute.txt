@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\bin\Debug\CentralitaPolimorfismo.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralitaPolimorfismo\CentralitaPolimorfismo\obj\Debug\CentralitaPolimorfismo.pdb

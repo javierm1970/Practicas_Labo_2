@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\bin\Debug\Ejercicio_45_TestUnitario.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\bin\Debug\Ejercicio_45_TestUnitario.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\obj\Debug\Ejercicio_45_TestUnitario.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\obj\Debug\Ejercicio_45_TestUnitario.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\obj\Debug\Ejercicio_45_TestUnitario.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\TestUnitario_EjemploException\Ejercicio_45_TestUnitario\obj\Debug\Ejercicio_45_TestUnitario.pdb

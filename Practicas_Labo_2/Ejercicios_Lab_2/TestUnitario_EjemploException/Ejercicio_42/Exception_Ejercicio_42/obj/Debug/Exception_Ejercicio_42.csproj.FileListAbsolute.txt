@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\bin\Debug\Exception_Ejercicio_42.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\bin\Debug\Exception_Ejercicio_42.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\obj\Debug\Exception_Ejercicio_42.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\obj\Debug\Exception_Ejercicio_42.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\obj\Debug\Exception_Ejercicio_42.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_42\Exception_Ejercicio_42\obj\Debug\Exception_Ejercicio_42.pdb

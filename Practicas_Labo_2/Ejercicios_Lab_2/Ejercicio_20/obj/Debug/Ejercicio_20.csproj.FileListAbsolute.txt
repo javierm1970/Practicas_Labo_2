@@ -1,0 +1,20 @@
+C:\Users\javier\source\repos\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+C:\Users\javier\source\repos\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+C:\Users\javier\source\repos\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+C:\Users\javier\source\repos\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+C:\Users\javier\source\repos\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+C:\Users\javier\source\repos\Ejercicio_20\bin\Debug\Billetes.dll
+C:\Users\javier\source\repos\Ejercicio_20\bin\Debug\Billetes.pdb
+C:\Users\javier\source\repos\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete
+C:\Users\javier\source\repos\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+C:\Users\javier\source\repos\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\bin\Debug\Billetes.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\bin\Debug\Billetes.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\obj\Debug\Ejercicio_20.csproj.CopyComplete
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_20\obj\Debug\Ejercicio_20.pdb

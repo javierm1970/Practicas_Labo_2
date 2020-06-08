@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralitaHerencia.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\bin\Debug\CentralTelefonica.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\CentralTelefonica\CentralTelefonica\obj\Debug\CentralTelefonica.pdb

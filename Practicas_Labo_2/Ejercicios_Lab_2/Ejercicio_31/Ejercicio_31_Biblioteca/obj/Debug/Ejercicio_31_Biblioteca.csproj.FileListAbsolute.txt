@@ -1,0 +1,12 @@
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\bin\Debug\Ejercicio_31_Biblioteca.dll
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\bin\Debug\Ejercicio_31_Biblioteca.pdb
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.csprojAssemblyReference.cache
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.dll
+C:\Users\javier\source\repos\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\bin\Debug\Ejercicio_31_Biblioteca.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\bin\Debug\Ejercicio_31_Biblioteca.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_31\Ejercicio_31_Biblioteca\obj\Debug\Ejercicio_31_Biblioteca.pdb
