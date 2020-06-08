@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\bin\Debug\Ejercicio_36_Herencia.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\bin\Debug\Ejercicio_36_Herencia.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\obj\Debug\Ejercicio_36_Herencia.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\obj\Debug\Ejercicio_36_Herencia.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\obj\Debug\Ejercicio_36_Herencia.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Competencia\Ejercicio_36_Herencia\obj\Debug\Ejercicio_36_Herencia.pdb

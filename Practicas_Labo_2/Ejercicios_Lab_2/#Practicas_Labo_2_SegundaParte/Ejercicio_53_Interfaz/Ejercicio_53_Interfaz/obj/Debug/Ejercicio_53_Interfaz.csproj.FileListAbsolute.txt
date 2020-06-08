@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\bin\Debug\Ejercicio_53_Interfaz.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\bin\Debug\Ejercicio_53_Interfaz.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\obj\Debug\Ejercicio_53_Interfaz.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\obj\Debug\Ejercicio_53_Interfaz.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\obj\Debug\Ejercicio_53_Interfaz.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_53_Interfaz\Ejercicio_53_Interfaz\obj\Debug\Ejercicio_53_Interfaz.pdb

@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\bin\Debug\Ejercicio_50_Interfaces.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\bin\Debug\Ejercicio_50_Interfaces.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\obj\Debug\Ejercicio_50_Interfaces.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\obj\Debug\Ejercicio_50_Interfaces.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\obj\Debug\Ejercicio_50_Interfaces.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_50_Interfaces\Ejercicio_50_Interfaces\obj\Debug\Ejercicio_50_Interfaces.pdb

@@ -1,0 +1,7 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\bin\Debug\Ejercicio_57_Consola.exe.config
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\bin\Debug\Ejercicio_57_Consola.exe
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\bin\Debug\Ejercicio_57_Consola.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\obj\Debug\Ejercicio_57_Consola.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\obj\Debug\Ejercicio_57_Consola.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\obj\Debug\Ejercicio_57_Consola.exe
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_57_Consola\Ejercicio_57_Consola\obj\Debug\Ejercicio_57_Consola.pdb

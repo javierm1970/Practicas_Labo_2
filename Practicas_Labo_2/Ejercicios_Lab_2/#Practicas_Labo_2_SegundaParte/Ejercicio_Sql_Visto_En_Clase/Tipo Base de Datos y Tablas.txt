@@ -1,0 +1,14 @@
+Para arreglar cuando no les permite guardar los cambios en una tabla:
+Tools -> Options -> Designers 
+-> Table and Database Designers -> Sacar Prevent saving changes that require table re-creation (editado) 
+
+Arreglar el intellisense del SSMS -> SHIFT + CTRL + R (editado)
+
+
+Una CLAVE EXTRANJERA es una clave utilizada para vincular dos tablas juntas.
+
+Una CLAVE EXTRANJERA es un campo (o colección de campos) en una tabla que se refiere a la CLAVE PRIMARIA en otra tabla.
+
+La tabla que contiene la clave externa se llama tabla secundaria, y la tabla que contiene la clave candidata se denomina
+ tabla principal o referenciada.
+

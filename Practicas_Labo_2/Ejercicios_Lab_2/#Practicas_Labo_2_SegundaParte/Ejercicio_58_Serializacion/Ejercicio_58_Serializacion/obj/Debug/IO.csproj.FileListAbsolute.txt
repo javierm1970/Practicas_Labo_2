@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\bin\Debug\Ejercicio_58_Serializacion.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\bin\Debug\Ejercicio_58_Serializacion.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\obj\Debug\IO.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\obj\Debug\IO.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\obj\Debug\Ejercicio_58_Serializacion.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_58_Serializacion\Ejercicio_58_Serializacion\obj\Debug\Ejercicio_58_Serializacion.pdb

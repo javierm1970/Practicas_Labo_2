@@ -1,0 +1,6 @@
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\bin\Debug\Ejercicio_43_Exception.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\bin\Debug\Ejercicio_43_Exception.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\obj\Debug\Ejercicio_43_Exception.csprojAssemblyReference.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\obj\Debug\Ejercicio_43_Exception.csproj.CoreCompileInputs.cache
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\obj\Debug\Ejercicio_43_Exception.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_43_Exception\Ejercicio_43_Exception\obj\Debug\Ejercicio_43_Exception.pdb
