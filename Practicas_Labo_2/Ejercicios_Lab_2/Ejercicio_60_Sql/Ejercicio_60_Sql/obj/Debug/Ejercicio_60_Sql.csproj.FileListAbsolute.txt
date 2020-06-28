@@ -2,9 +2,9 @@ D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_L
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\bin\Debug\Ejercicio_60_Sql.exe
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\bin\Debug\Ejercicio_60_Sql.pdb
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.csprojAssemblyReference.cache
-D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.Form1.resources
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.Properties.Resources.resources
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.csproj.GenerateResource.cache
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.csproj.CoreCompileInputs.cache
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.exe
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_60_Sql\Ejercicio_60_Sql\obj\Debug\Ejercicio_60_Sql.FrmProductos.resources

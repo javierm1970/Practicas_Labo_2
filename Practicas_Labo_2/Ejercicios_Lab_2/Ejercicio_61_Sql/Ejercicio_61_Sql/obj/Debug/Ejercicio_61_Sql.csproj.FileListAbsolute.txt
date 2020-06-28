@@ -2,9 +2,12 @@ D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_L
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\bin\Debug\Ejercicio_61_Sql.exe
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\bin\Debug\Ejercicio_61_Sql.pdb
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.csprojAssemblyReference.cache
-D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.Form1.resources
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.Properties.Resources.resources
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.csproj.GenerateResource.cache
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.csproj.CoreCompileInputs.cache
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.exe
 D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.FrmPersona.resources
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\bin\Debug\Ejercicio_61_Bibliotecas.dll
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\bin\Debug\Ejercicio_61_Bibliotecas.pdb
+D:\UTN\Practicas Visual Studio C#\Practicas_Labo_2\Practicas_Labo_2\Ejercicios_Lab_2\Ejercicio_61_Sql\Ejercicio_61_Sql\obj\Debug\Ejercicio_61_Sql.csproj.CopyComplete
